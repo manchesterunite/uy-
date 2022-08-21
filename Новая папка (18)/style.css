@@ -1,0 +1,43 @@
+.left{
+    position: relative;
+    background-color: aqua;
+    background-color: aqua;
+    width: 20%;
+    padding: 100px;
+    text-align: center;
+    left: 150px;
+}  
+.right{
+    position: relative;
+background-color: aquamarine;
+    width: 25%;
+    padding: 100px;
+    text-align: center;
+    left: 650px;
+    bottom: 425px;
+    
+}
+body{
+    text-align: center;
+    background: linear-gradient( to right, yellow,red,orange );
+}
+input{
+    position: relative;
+    border-radius: 50px;
+    padding-left: 50px;
+    right: 80px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 100%;
+}
+button{
+    position: relative;
+background-color: black;
+color: aliceblue;
+padding: 5px 60px;
+border-radius: 10px;
+right: 50px;
+width: 100%;
+}.ff{
+    width: 20px;
+}
